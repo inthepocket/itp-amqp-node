@@ -1,0 +1,27 @@
+{
+  "name": "itp-amqp-node",
+  "version": "1.1.0",
+  "description": "A lightweight AMQP client for Node.js.",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inthepocket/itp-amqp-node"
+  },
+  "keywords": [
+    "itp",
+    "amqp",
+    "node"
+  ],
+  "author": "In The Pocket",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.3.1",
+    "bluebird": "^2.9.6",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
