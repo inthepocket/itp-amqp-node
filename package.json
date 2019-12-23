@@ -17,11 +17,11 @@
   "author": "In The Pocket",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.3.1",
-    "bluebird": "^2.9.6",
+    "amqplib": "^0.5.5",
+    "bluebird": "^3.7.2",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
-    "mocha": "^2.1.0"
+    "mocha": "^6.2.2"
   }
 }
