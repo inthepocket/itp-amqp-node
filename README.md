@@ -1,5 +1,7 @@
 # ITP AMQP Node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/inthepocket/itp-amqp-node.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-version-image]][npm-url] [![MIT License][license-image]][license-url]
 
 A lightweight AMQP client for Node.js
